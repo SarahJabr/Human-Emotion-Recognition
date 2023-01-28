@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/tom99763/affectnethq
 ## Corrective re-annotation of FER - CK+ - KDEF Dataset
 https://www.kaggle.com/datasets/sudarshanvaidya/corrective-reannotation-of-fer-ck-kdef
 
-### to install the requirements
+### To install the requirements
 ```
 
 pip install -r requirements.txt
